@@ -1,6 +1,4 @@
-Certainly! Below is a sample `README.md` file for a Python project focused on Stock Prediction using an LSTM model and data obtained from Yahoo Finance for the stock named BHEL:
 
-```markdown
 # Stock Prediction with LSTM for BHEL
 
 This Python project utilizes Long Short-Term Memory (LSTM) neural networks to predict stock prices for BHEL (Bharat Heavy Electricals Limited). The historical stock data is obtained from Yahoo Finance using the `yfinance` library.
